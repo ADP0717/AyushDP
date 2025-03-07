@@ -1,8 +1,7 @@
 # Hello, I'm Ayush
-<a href=https://www.linkedin.com/in/ayushdp target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/ayushdp" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
