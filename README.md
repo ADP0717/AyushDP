@@ -55,7 +55,7 @@ In 2008, I was just 7 years old when I accidentally bypassed a PIN-locked Nokia 
 
 ## Projects  
 
-### Keylogger  
+### ⌨ Keylogger  
 <div>  
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />  
     <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />  
@@ -68,14 +68,14 @@ In 2008, I was just 7 years old when I accidentally bypassed a PIN-locked Nokia 
     <img src="https://img.shields.io/badge/-Kerberoasting-FFA500?&style=for-the-badge&logo=Windows&logoColor=white" />  
 </div>  
 
-### Web Application Security Testing  
+### 🌐 Web Application Security Testing  
 <div>  
     <img src="https://img.shields.io/badge/-Amass-8A2BE2?&style=for-the-badge&logo=Linux&logoColor=white" />  
     <img src="https://img.shields.io/badge/-Burp_Suite-FF7300?&style=for-the-badge&logo=BurpSuite&logoColor=white" />  
     <img src="https://img.shields.io/badge/-Go-00ADD8?&style=for-the-badge&logo=Go&logoColor=white" />  
 </div>  
 
-### Web Application Penetration Testing  
+### 🌐 Web Application Penetration Testing  
 <div>  
     <img src="https://img.shields.io/badge/-XSS-FF0000?&style=for-the-badge&logo=MozillaFirefox&logoColor=white" />  
     <img src="https://img.shields.io/badge/-CSRF-008000?&style=for-the-badge&logo=MozillaFirefox&logoColor=white" />  
@@ -83,13 +83,22 @@ In 2008, I was just 7 years old when I accidentally bypassed a PIN-locked Nokia 
     <img src="https://img.shields.io/badge/-Burp_Suite-FF7300?&style=for-the-badge&logo=BurpSuite&logoColor=white" />  
 </div>  
 
-### Senior Design Project in Final Semester
+### 📖 Senior Design Project in Final Semester
  Oral Squamous Cell Carcinoma Data Classification using Machine Learning
 <div>
     <img src="https://img.shields.io/badge/-Machine_Learning-10217D?&style=for-the-badge&logo=Scikit-learn&logoColor=white" />  
     <img src="https://img.shields.io/badge/-Random_Forest-228B22?&style=for-the-badge&logo=Treehouse&logoColor=white" />  
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />  
 </div>
+
+### 📱 PeerPulse - A Mobile App Built with Flutter & Dart
+<div>
+  <img src="https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
+  <img src="https://img.shields.io/badge/Dart-2.x-blue?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
+</div>    
+
+---
+
 
 ## Certifications  
 
