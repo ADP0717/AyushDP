@@ -120,4 +120,9 @@ Google Professional Cybersecurity - Google
 Ethical Hacking / Penetration Testing & Bug Bounty Hunting - Udemy
 <div>  
     <img src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=Udemy&logoColor=white" />              
-</div>  
+</div>
+
+Fortinet NSE 2 Network Security Associate
+<div>  
+    <img src="https://img.shields.io/badge/Fortinet-red?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet Badge" />              
+</div>
