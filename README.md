@@ -124,5 +124,5 @@ Ethical Hacking / Penetration Testing & Bug Bounty Hunting - Udemy
 
 Fortinet NSE 2 Network Security Associate
 <div>  
-    <img src="https://img.shields.io/badge/Fortinet-red?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet Badge" />              
+    <img src="https://img.shields.io/badge/Fortinet-red?style=for-the-badge&logo=fortinet&logoColor=white" />              
 </div>
