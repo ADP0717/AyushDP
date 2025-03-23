@@ -33,7 +33,6 @@ In 2008, I was just 7 years old when I accidentally bypassed a PIN-locked Nokia 
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/-Selenium-43B02A?&style=for-the-badge&logo=Selenium&logoColor=white" />
     <img src="https://img.shields.io/badge/-JIRA-0052CC?&style=for-the-badge&logo=JIRA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
   </div>
   Ethical Hacking, Penetration Testing, Incident Monitoring & Response & Security Hardening
   <div>
