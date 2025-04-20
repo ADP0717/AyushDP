@@ -11,7 +11,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to create a cyber-secure landscape for every user.
 
 ## Why Cybersecurity
-In 2008, I was just 7 years old when I accidentally bypassed a PIN-locked Nokia 1100 with just a simple button sequence. No hacking tools, no advanced knowledge—just pure curiosity. That moment made me realize how small flaws can lead to big security gaps, sparking my passion technology!
+In 2008, I was just 7 years old when I accidentally bypassed a PIN-locked Nokia 1100 with just a simple button sequence. No hacking tools, no advanced knowledge—just pure curiosity. That moment made me realize how small flaws can lead to big security gaps, sparking my passion for technology!
 
 ## Skills
   Operating Systems:  
